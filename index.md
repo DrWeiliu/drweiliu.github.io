@@ -2,9 +2,9 @@
 
 ## 刘伟  
 
-**性别**&emsp;&emsp;:&emsp;&emsp;男  <br>
+**性别**&emsp;&emsp;&emsp;:&emsp;男  <br>
 **出生日期**&emsp;:&emsp;1989年3月8日  <br>
-**国籍**&emsp;&emsp;:&emsp;中国  <br>
+**国籍**&emsp;&emsp;&emsp;:&emsp;中国  <br>
 **邮件**&emsp;&emsp;:&emsp;wei.liu@immu.edu.cn&nbsp;|&nbsp;dr.wei.liu@hotmail.com  
 
 **通讯地址**&emsp;:&emsp;临床骨科研究中心  <br>
