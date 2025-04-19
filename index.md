@@ -8,9 +8,9 @@
 **邮件**&emsp;&emsp;&emsp;:&emsp;wei.liu@immu.edu.cn&nbsp;|&nbsp;dr.wei.liu@hotmail.com  
 
 **通讯地址**&emsp;:&emsp;临床骨科研究中心  <br>
-&emsp;&emsp;&emsp;&emsp;内蒙古医科大学第二附属医院  <br>
-&emsp;&emsp;&emsp;&emsp;科尔沁南路59号，010010 中国，呼和浩特  <br>
-&emsp;&emsp;&emsp;&emsp;+86&nbsp;0471&nbsp;2576593&nbsp;|&nbsp;+86&nbsp;18848111816  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;内蒙古医科大学第二附属医院  <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;科尔沁南路59号，010010 中国，呼和浩特  <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;+86&nbsp;0471&nbsp;2576593&nbsp;|&nbsp;+86&nbsp;18848111816  
 
 ---
 
