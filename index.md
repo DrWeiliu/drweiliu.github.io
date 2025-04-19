@@ -1,0 +1,1 @@
+markdown<br># 智能医学信息计算实验室 (IMIC Lab)<br><br>> 专注于骨科影像、软骨再生与数据驱动诊疗<br><br>## 研究方向<br>- 关节软骨组织工程<br>- 医学图像 AI 诊断<br>- 个体化术前规划<br><br>## 近期论文 (2024‑2025)<br>1. **Zhang Y.**, *et al.* Cartilage repair via … *Acta Biomaterialia* (2025)<br><br>## 加入我们<br>长期招收&nbsp;博后 / 博士 / 联培硕士 — 请发送简历至 example@univ.edu<br>
