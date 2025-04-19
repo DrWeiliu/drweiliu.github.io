@@ -2,7 +2,7 @@
 
 ## 刘伟  
 
-**性别**&emsp;&emsp;:&emsp;男  <br>
+**性别**&emsp;&emsp;:&emsp;&emsp;男  <br>
 **出生日期**&emsp;:&emsp;1989年3月8日  <br>
 **国籍**&emsp;&emsp;:&emsp;中国  <br>
 **邮件**&emsp;&emsp;:&emsp;wei.liu@immu.edu.cn&nbsp;|&nbsp;dr.wei.liu@hotmail.com  
