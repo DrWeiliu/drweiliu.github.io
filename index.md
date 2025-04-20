@@ -6,7 +6,7 @@
 
 ## 基本信息
 
-* **邮件**: `wei.liu@immu.edu.cn` | `dr.wei.liu@hotmail.com`
+* **邮件**: wei.liu@immu.edu.cn | dr.wei.liu@hotmail.com
 * **通讯地址**:
     * 临床骨科研究中心
     * 内蒙古医科大学第二附属医院
