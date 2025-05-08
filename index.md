@@ -17,57 +17,57 @@
 
 ## 科研技能
 
-* **病毒载体技术**: 重组腺相关病毒 (rAAV) 包装与应用
-* **生物学实验**: 常规动物手术、细胞培养与干预、免疫组化/免疫荧光 (IHC/IF)、蛋白质印迹 (WB)、聚合酶链式反应 (PCR)、组织学特殊染色
-* **生物材料**: 海藻酸盐控释系统等生物材料制备与应用
-* **生物力学**: Mach-1 生物力学测试系统操作与数据分析
+* **病毒载体技术**
+* **生物学实验**
+* **生物材料**
+* **生物力学**
 
 ---
 
 ## 研究经历
 
 ### 实验室负责人 / 副研究员
-* **时间**: 2025年3月 - 至今
+* **时间**: 2025年 - 至今
 * **单位**: 内蒙古医科大学第二附属医院，内蒙古骨科研究所，呼和浩特，中国
 * **职责**: 主持或负责基因治疗及再生医学相关的科研项目
 
 ### 自创公司主管
-* **时间**: 2024年10月 - 2025年2月
+* **时间**: 2024年 - 2025年
 * **单位**: 内蒙古循证医学转化中心，呼和浩特，中国
 * **职责**: 负责科研转化项目实施
 
 ### 博士后研究员 (Postdoctoral Researcher)
-* **时间**: 2023年12月 - 2024年9月
+* **时间**: 2023年 - 2024年
 * **单位**: 实验骨科中心与临床矫形中心，萨尔大学 (Saarland University)，洪堡，德国
 * **导师**: Prof. Henning Madry
 * **研究内容**: 通过藻酸盐基水凝胶控释rAAV载体介导基因过表达，以提高人类骨关节缺陷模型的生物活性和软骨修复活性。
 
 ### 博士研究生 (PhD in Orthopedic Surgery)
-* **时间**: 2020年6月 - 2024年9月
+* **时间**: 2020年 - 2024年
 * **单位**: 实验骨科中心与临床矫形中心，萨尔大学 (Saarland University)，洪堡，德国
 * **学位**: 博士 (summa cum laude / 最高荣誉毕业)
 * **导师**: Prof. Magali Cucchiarini
 * **研究内容**: 通过藻酸盐基水凝胶控释rAAV载体介导基因过表达，以刺激间充质干细胞和骨关节炎软骨细胞的生物活性及软骨修复活性。
 
 ### 自创公司主管
-* **时间**: 2019年8月 - 2020年5月
+* **时间**: 2019年 - 2020年
 * **单位**: 内蒙古循证转化医学生物科技中心，呼和浩特，中国
 * **职责**: 负责科研转化项目实施
 
 ### 硕士研究生 (M.Sc. in Surgery)
-* **时间**: 2016年9月 - 2019年7月
+* **时间**: 2016年 - 2019年
 * **单位**: 内蒙古医科大学第二附属医院，呼和浩特，中国
 * **荣誉**: 答辩第一名毕业
 * **导师**: 黄健 教授
 * **研究内容**: 高迁移率族蛋白1 (HMGB1)-白细胞介素1β (IL-1β) 复合物对类风湿性关节炎滑膜成纤维细胞增殖、凋亡和自噬的影响。
 
 ### 外科医师
-* **时间**: 2013年8月 - 2016年8月
+* **时间**: 2013年 - 2016年
 * **单位**: 呼和浩特市第一监狱医院，呼和浩特，中国
 * **职责**: 负责全科诊疗工作
 
 ### 本科 (Bachelor of Medicine)
-* **时间**: 2008年9月 - 2013年7月
+* **时间**: 2008年 - 2013年
 * **单位**: 内蒙古医科大学，呼和浩特，中国
 
 ---
@@ -124,68 +124,5 @@
 * **Liu W**, et al. Stimulation of the chondroreparative activities of human osteoarthritic articular chondrocytes upon overexpression of sox9 and TGF-β via rAAV gene vector delivery in an alginate-based hydrogel. *OARSI 2023 World Congress*. Denver, CO, USA (2023). [Abstract S403-404, *Osteoarthritis and Cartilage*]
 * **Liu W**, et al. Stimulation of the biological and chondroreparative activities of human bone marrow-derived stromal cells upon overexpression of sox9 and TGF-β via rAAV gene vector delivery in an alginate-based hydrogel. *OARSI 2022 World Congress*. Berlin, Germany (2022). [Abstract S423-S424, *Osteoarthritis and Cartilage*]
 * **Liu W**, et al. rAAV-mediated overexpression of sox9 and TGF-β upon vector delivery in an alginate-based hydrogel stimulates the biological and chondroreparative activities of human bone marrow-derived stromal cells. *68th Annual Meeting of the ORS*. Tampa, FL, USA (2022). [Poster 648]
-
----
-
-## 相关专利
-
-* **刘伟**. 关节置换术后锻炼装置及可计数锻炼器 (专利号: PB2000252)
-* **刘伟**. 髋关节置换术后防脱位裤 (专利号: PB2000219)
-* **刘伟**. 术中髋臼角度调节装置 (专利号: PB2000218CJ)
-* **刘伟**. 多功能护理床 (专利号: PB2000220)
-* **刘伟等**. 术中排泄物收纳裤 (专利号: Pb2000221CJ)
-* **刘伟等**. 术后排尿训练装置 (专利号: PB2000222CJ)
-* **刘伟等**. 术后单向导尿管 (专利号: PB1901024)
-
----
-
-## 同行评议（审稿人）
-
-* *PeerJ* (Publisher: PeerJ)
-* *Stem Cells International* (Publisher: Hindawi)
-* *BMC Musculoskeletal Disorders* (Publisher: Springer Nature)
-* *OAC open* (Publisher: Elsevier)
-* *Open Journal of Orthopedics and Rheumatology* (Publisher: Peertechz)
-* *中国组织工程研究*
-
----
-
-## 学术与社会兼职
-
-* **2025年 - 至今**: 国际骨关节炎研究协会亚洲联盟 (OARSI Asia Alliance) 成员
-* **2023年 - 至今**: 德-法-奥-比大区软骨网络 (Cartilage Net) 成员
-* **2020年 - 至今**: 国际骨关节炎研究协会 (OARSI) / 美国骨科研究协会 (ORS) / 德国骨科与创伤外科学会 (DKOU) 会员
-* **2024年 - 2025年**: *IMed* 青年编委
-* **2022年 - 2024年**: 中国组织工程研究杂志医工融合第一届委员会 委员
-* **2024年 - 至今**: *Biomedical Engineering Communications (BMEC)* 青年编委
-
----
-
-## 所获奖励与荣誉
-
-* **2018 - 2019**: 内蒙古医科大学学业奖学金
-* **2017 - 2018**: 内蒙古医科大学学业奖学金
-* **2015 - 2016**: 呼和浩特市监狱系统优秀警员
-* **2013 - 2014**: 内蒙古自治区司法厅系统优秀警员
-* **2012 - 2013**: 内蒙古自治区教育厅普通高等学校优秀毕业生
-* **2012 - 2013**: 内蒙古自治区教育厅普通高等学校三好学生
-* **2011 - 2012**: 地震救灾中心优秀志愿者
-* **2011 - 2012**: 内蒙古医科大学“三好学生”
-* **2011 - 2012**: 内蒙古医科大学“优秀学生干部”
-* **2011 - 2012**: 内蒙古医科大学“优秀学生奖学金”
-* **2010 - 2011**: 内蒙古医学院“三好学生”
-* **2010 - 2011**: 内蒙古医学院“优秀学生干部”
-* **2010 - 2011**: 内蒙古医学院“优秀学生奖学金”
-* **2008 - 2009**: 内蒙古医学院“优秀学生奖学金”
-
----
-
-## 科研基金项目
-
-* **2024 - 2025**: 香港理工大学 微型基金 (Micro Funding, Grant No: E-25(1)-003)
-* **2023 - 2024**: 德国萨尔大学 全球博士生研究基金 (GradUS global funding, Saarland University)
-* **2022 - 2023**: 德国萨尔大学 全球博士生研究基金 (GradUS global funding, Saarland University)
-* **2022 - 至今**: 中德合作交流项目 (PPP Project, Grant No: M-0726) - 参与
-* **2019 - 2023**: 国家留学基金委 (CSC) 公派博士研究生奖学金 (Grant No: 201908150154)
 
 ---
